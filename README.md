@@ -1,6 +1,24 @@
 # devops
 ### extra git commands in details
 https://www.edureka.co/blog/git-tutorial/
+
+## 7C's of DevOps
+ everything is continuous in DevOps — from planning to monitoring. So let’s break down the entire lifecycle into seven phases where continuity is at its core. Any phase in the lifecycle can iterate throughout the project multiple times until it’s finished.
+
+1. Continuous development
+
+2. Continuous integration
+
+3. Continuous testing
+
+4. Continuous deployment
+
+5. Continuous feedback
+
+6. Continuous monitoring
+
+7. Continuous operations
+
 ### Theory
 #### Principle of devops
 DevOps is a set of principles and practices that emphasize collaboration, automation, and integration between development and IT operations teams to enable faster and more reliable software delivery.
@@ -37,6 +55,9 @@ Puppet is an automation tool that helps manage and configure IT infrastructure b
 
 #### smaller varaiant
 Puppet tools include Puppet Enterprise, Puppet Bolt, Puppet Forge, and PuppetDB for automating and managing IT infrastructure.
+
+#### What is jenkins
+Jenkins is a Java-based open-source automation platform with plugins designed for continuous integration. It is used to continually create and test software projects, making it easier for developers and DevOps engineers to integrate changes to the project and for consumers to get a new build.
 
 #### Pros and cons of jenkins
 Pros of Jenkins: Open-source, extensible, robust CI/CD, large community.
