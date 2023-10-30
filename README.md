@@ -19,6 +19,28 @@ https://www.edureka.co/blog/git-tutorial/
 
 7. Continuous operations
 
+### Jenkins in detail
+This tool is free of cost. <br/>
+It is easy to install. <br/>
+Jenkins has 1000+ plugins to ease your work. If a plugin does not exist for your requirement, you can code it and share with the community. <br/>
+It doesn’t require additional installations or components. Means it is easy to install.<br/>
+Jenkins is built with Java and hence, it is portable to all the major platforms.<br/>
+It can execute bash scripts, shell scripts, ANT and Maven Targets.<br/>
+Developers write the tests to detect the errors of their code as soon as possible. So the developers don’t waste time on large-scale error-ridden integrations.<br/>
+It also provides support for scheduled builds & automation test execution.<br/>
+Jenkins Disadvantages<br/>
+Jenkins interface is out dated and not user friendly compared to current UI trends.<br/>
+The larger problem is that majority of the Jenkins’ plugins are coded by third party. So, the quality of these coded may differ. And these may not assure steadiness.<br/>
+Continuous integrations regularly break due to some small setting changes. Continuous integration will be paused and therefore requires some developer attention.<br/>
+Not easy to maintain it because it runs on a server and requires some skills as server administrator to monitor its activity.
+
+### Nagios in detail
+Nagios is a powerful monitoring system that enables organizations to identify and resolve IT infrastructure problems before affecting critical business processes. <br/>
+
+Like some of the most popular and useful platforms & tools in the DevOps ecosystem, Nagios is open-source. It was originally designed to run on the Linux operating system but now functions on Linux, Windows, as well as Unix operating systems.<br/>
+
+One of the most important things Nagios does is that it runs periodic checks on critical parameters of application, network, and server resources. Nagios will monitor important parameters and functions like memory usage, disk usage, microprocessor load, number of processes running simultaneously at any given time, log files that are running, etc. It will also monitor important services, including common network protocols such as SMTP (Simple Mail Transfer Protocol), POP 3 (Post Office Protocol 3), HTTP (Hypertext Transfer Protocol), etc. Nagios will initiate active checks regularly. The passive checks would be done by the external applications which are connected to Nagios.
+
 ### Theory
 #### Principle of devops
 DevOps is a set of principles and practices that emphasize collaboration, automation, and integration between development and IT operations teams to enable faster and more reliable software delivery.
@@ -45,7 +67,8 @@ Pros of pipelines in DevOps: Automation, consistency, faster software delivery, 
 Cons: Complex to set up initially, maintenance overhead, potential for bottlenecks.
 
 #### What is Docker
-Docker is a platform for developing, shipping, and running applications in containers, which are lightweight, isolated environments that package everything needed to run the application, including code, dependencies, and configurations.
+Docker is a platform for developing, shipping, and running applications in containers, which are lightweight, isolated environments that package everything needed to run the application, including code, dependencies, and configurations.<br/>
+Using Docker with DevOps makes it easier to create applications using unique interconnected components. You also get a high level of control over all the changes during the development life cycle. This makes it easier to go back to a previous version of the application you want.
 
 #### What is Nagios
 Nagios is an open-source monitoring and alerting system that helps IT teams track the health and performance of their IT infrastructure, including servers, networks, and services, by sending alerts when issues are detected.
